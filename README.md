@@ -19,7 +19,6 @@ on an input form a given image. Along with this, I also used backpropagation, wi
 adjust the weights and biases based on the cost of the previous computation.
 
 ![cost-function](https://github.com/KingArthurZ3/fashion-mnist/blob/master/resources/costs.png "cost_function")
-![cost-function](https://github.com/KingArthurZ3/fashion-mnist/blob/master/resources/costs.png "cost_function")
 
 Finally, as shown by my cost function, my model correctly classifies these clothing types with approximately an
 89.35% accuracy, not state-of-the-art, but definitely passable for most commercial purposes.
