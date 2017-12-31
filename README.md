@@ -48,3 +48,4 @@ Each epoch, my network trains sequentially on minibatches, saves the parameters,
 Finally, as shown by my cost function, my model correctly classifies these clothing types with approximately an
 **89.35% accuracy**, not state-of-the-art, but definitely passable for my purposes.
 
+Github repository for this project: https://github.com/KingArthurZ3/fashion-mnist
