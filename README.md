@@ -8,13 +8,13 @@ Each of the photos are in the form of a 1D Numpy array with 784 elements.
 
 ## Parts of my Neural Network
 
-**1. Establish network parameters
-2. Initialize placeholders
-3. Initialize parameters
-4. Forward propagation
-5. Compute cost 
-6. Backpropagation
-7. Combining everything**
+1. **Establish network parameters**
+2. **Initialize placeholders**
+3. **Initialize parameters**
+4. **Forward propagation**
+5. **Compute cost**
+6. **Backpropagation**
+7. **Combining everything**
 
 ![network structure](https://github.com/KingArthurZ3/fashion-mnist/blob/master/resources/network_structure.png "network_structure")
 
